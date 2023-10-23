@@ -1,1 +1,11 @@
-# chat_with_pdf_table
+# Chat with PDF with the Tables
+
+The contents of this repository showcase how to extract table data from a PDF file and preprocess it to facilitate word embedding. This preprocessing step enhances the readability of table data for language models and enables us to extract more contextual information from the tables. The [PyMuPDF]() library was utilized to identify and extract tables from the PDF document.
+
+* [pdf_table_to_txt.ipynb](https://github.com/easonlai/chat_with_pdf_table/blob/main/pdf_table_to_txt.ipynb) <-- Example of extracting table data from the PDF file and performing preprocessing.
+* [preprocess_chroma.ipynb](https://github.com/easonlai/chat_with_pdf_table/blob/main/preprocess_chroma.ipynb) <-- Example of using Embedding Model from Azure OpenAI Service to embed the content from the document and save it into Chroma vector database.
+* [consume_chroma.ipynb](https://github.com/easonlai/chat_with_pdf_table/blob/main/consume_chroma.ipynb) <-- Example of using [LangChain](https://www.langchain.com/) question-answering module to perform similarity search from the [Chroma vector database](https://www.trychroma.com/) and use the [GPT-3.5 (text-davinci-003)](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/legacy-models#gpt-35) to summarize the result.
+* [preprocess_chroma_a.ipynb](https://github.com/easonlai/chat_with_pdf_table/blob/main/preprocess_chroma_a.ipynb) <-- [Negative example that using non-processed data] Example of using Embedding Model from Azure OpenAI Service to embed the content from the document and save it into Chroma vector database.
+* [consume_chroma_a.ipynb](https://github.com/easonlai/chat_with_pdf_table/blob/main/consume_chroma_a.ipynb) <-- [Negative example that using non-processed data] Example of using [LangChain](https://www.langchain.com/) question-answering module to perform similarity search from the [Chroma vector database](https://www.trychroma.com/) and use the [GPT-3.5 (text-davinci-003)](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/legacy-models#gpt-35) to summarize the result.
+
+Enjoy!
