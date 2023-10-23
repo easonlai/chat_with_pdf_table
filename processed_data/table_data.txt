@@ -1,0 +1,20 @@
+order_id: 3, order_status: Order Finished, customer: Muhammed Mac Intyre, order_date: 13/10/2010, order_quantity: 6, sales: 523080
+order_id: 293, order_status: Order Finished, customer: Barry French, order_date: 1/10/2012, order_quantity: 49, sales: 20246040
+order_id: 483, order_status: Order Finished, customer: Clay Rozendal, order_date: 10/7/2011, order_quantity: 30, sales: 9931519
+order_id: 515, order_status: Order Finished, customer: Carlos Soltero, order_date: 28/8/2010, order_quantity: 19, sales: 788540
+order_id: 613, order_status: Order Finished, customer: Carl Jackson, order_date: 17/6/2011, order_quantity: 12, sales: 187080
+order_id: 643, order_status: Order Finished, customer: Monica Federle, order_date: 24/3/2011, order_quantity: 21, sales: 5563640
+order_id: 678, order_status: Order Returned, customer: Dorothy Badders, order_date: 26/2/2010, order_quantity: 44, sales: 456820
+order_id: 807, order_status: Order Finished, customer: Neola Schneider, order_date: 23/11/2010, order_quantity: 45, sales: 393700
+order_id: 868, order_status: Order Finished, customer: Carlos Daly, order_date: 8/6/2012, order_quantity: 32, sales: 1433680
+order_id: 933, order_status: Order Finished, customer: Claudia Miner, order_date: 4/8/2012, order_quantity: 15, sales: 161220
+order_id: 995, order_status: Order Finished, customer: Neola Schneider, order_date: 30/5/2011, order_quantity: 46, sales: 3630980
+order_id: 998, order_status: Order Finished, customer: Allen Rosenblatt, order_date: 25/11/2009, order_quantity: 16, sales: 496520
+order_id: 1154, order_status: Order Finished, customer: Sylvia Foulston, order_date: 14/2/2012, order_quantity: 44, sales: 8924460
+order_id: 1344, order_status: Order Finished, customer: Jim Radford, order_date: 15/4/2012, order_quantity: 15, sales: 1669808
+order_id: 1412, order_status: Order Finished, customer: Carlos Soltero, order_date: 12/3/2010, order_quantity: 13, sales: 118060
+order_id: 1539, order_status: Order Finished, customer: Carl Ludwig, order_date: 9/3/2011, order_quantity: 33, sales: 1023660
+order_id: 1540, order_status: Order Finished, customer: Don Miller, order_date: 4/8/2012, order_quantity: 30, sales: 161800
+order_id: 1702, order_status: Order Finished, customer: Annie Cyprus, order_date: 6/5/2011, order_quantity: 23, sales: 134480
+order_id: 1761, order_status: Order Finished, customer: Carl Ludwig, order_date: 23/12/2010, order_quantity: 25, sales: 24056460
+order_id: 1792, order_status: Order Finished, customer: Carlos Soltero, order_date: 8/11/2010, order_quantity: 28, sales: 740960
